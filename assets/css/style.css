@@ -1,0 +1,21 @@
+body {
+  background-image: url("../images/tiger.jpg");
+  background-color: black;
+  text-align: center;
+}
+
+.text-muted {
+  color: white;
+}
+
+.last-seconds {
+  color: red;
+}
+
+.option {
+  margin: 15px;
+}
+
+.container {
+  width: 800px;
+}
